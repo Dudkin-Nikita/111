@@ -1,0 +1,19 @@
+c:\users\юрий\documents\visual studio 2015\Projects\chatServer\chatServer\bin\Debug\chatServer.exe.config
+c:\users\юрий\documents\visual studio 2015\Projects\chatServer\chatServer\bin\Debug\chatServer.exe
+c:\users\юрий\documents\visual studio 2015\Projects\chatServer\chatServer\bin\Debug\chatServer.pdb
+c:\users\юрий\documents\visual studio 2015\Projects\chatServer\chatServer\obj\Debug\chatServer.exe
+c:\users\юрий\documents\visual studio 2015\Projects\chatServer\chatServer\obj\Debug\chatServer.pdb
+C:\Users\Юрий\Documents\Visual Studio 2015\Projects\chatServer\chatServer\obj\Debug\chatServer.csprojResolveAssemblyReference.cache
+C:\Users\Не смотри\Desktop\chatServer\chatServer\bin\Debug\chatServer.exe.config
+C:\Users\Не смотри\Desktop\chatServer\chatServer\obj\Debug\chatServer.exe
+C:\Users\Не смотри\Desktop\chatServer\chatServer\obj\Debug\chatServer.pdb
+C:\Users\Не смотри\Desktop\1\chatServer\chatServer\bin\Debug\chatServer.exe.config
+C:\Users\Не смотри\Desktop\1\chatServer\chatServer\obj\Debug\chatServer.exe
+C:\Users\Не смотри\Desktop\1\chatServer\chatServer\obj\Debug\chatServer.pdb
+E:\КСИС\ксис2\1\chatServer\chatServer\bin\Debug\chatServer.exe.config
+E:\КСИС\ксис2\1\chatServer\chatServer\bin\Debug\chatServer.exe
+E:\КСИС\ксис2\1\chatServer\chatServer\bin\Debug\chatServer.pdb
+E:\КСИС\ксис2\1\chatServer\chatServer\obj\Debug\chatServer.csprojAssemblyReference.cache
+E:\КСИС\ксис2\1\chatServer\chatServer\obj\Debug\chatServer.csproj.CoreCompileInputs.cache
+E:\КСИС\ксис2\1\chatServer\chatServer\obj\Debug\chatServer.exe
+E:\КСИС\ксис2\1\chatServer\chatServer\obj\Debug\chatServer.pdb

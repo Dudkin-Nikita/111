@@ -1,0 +1,36 @@
+E:\КСИС\Курсач\Riptide\bin\Debug\Riptide.exe.config
+E:\КСИС\Курсач\Riptide\bin\Debug\Riptide.exe
+E:\КСИС\Курсач\Riptide\bin\Debug\Riptide.pdb
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.csprojAssemblyReference.cache
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.SyncInForm.resources
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.GameForm.resources
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.InfoForm.resources
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.Properties.Resources.resources
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.csproj.GenerateResource.cache
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.csproj.CoreCompileInputs.cache
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.exe
+E:\КСИС\Курсач\Riptide\obj\Debug\Riptide.pdb
+C:\Курсач Дудкин Никита\Riptide\bin\Debug\Riptide.exe.config
+C:\Курсач Дудкин Никита\Riptide\bin\Debug\Riptide.exe
+C:\Курсач Дудкин Никита\Riptide\bin\Debug\Riptide.pdb
+C:\Курсач Дудкин Никита\Riptide\obj\Debug\Riptide.csprojAssemblyReference.cache
+C:\Курсач Дудкин Никита\Riptide\obj\Debug\Riptide.SyncInForm.resources
+C:\Курсач Дудкин Никита\Riptide\obj\Debug\Riptide.GameForm.resources
+C:\Курсач Дудкин Никита\Riptide\obj\Debug\Riptide.InfoForm.resources
+C:\Курсач Дудкин Никита\Riptide\obj\Debug\Riptide.Properties.Resources.resources
+C:\Курсач Дудкин Никита\Riptide\obj\Debug\Riptide.csproj.GenerateResource.cache
+C:\Курсач Дудкин Никита\Riptide\obj\Debug\Riptide.csproj.CoreCompileInputs.cache
+C:\Курсач Дудкин Никита\Riptide\obj\Debug\Riptide.exe
+C:\Курсач Дудкин Никита\Riptide\obj\Debug\Riptide.pdb
+C:\Курсач Дудкин Никита1\Riptide\obj\Debug\Riptide.csprojAssemblyReference.cache
+C:\Курсач Дудкин Никита1\Riptide\obj\Debug\Riptide.SyncInForm.resources
+C:\Курсач Дудкин Никита1\Riptide\obj\Debug\Riptide.GameForm.resources
+C:\Курсач Дудкин Никита1\Riptide\obj\Debug\Riptide.InfoForm.resources
+C:\Курсач Дудкин Никита1\Riptide\obj\Debug\Riptide.Properties.Resources.resources
+C:\Курсач Дудкин Никита1\Riptide\obj\Debug\Riptide.csproj.GenerateResource.cache
+C:\Курсач Дудкин Никита1\Riptide\obj\Debug\Riptide.csproj.CoreCompileInputs.cache
+C:\Курсач Дудкин Никита1\Riptide\obj\Debug\Riptide.exe
+C:\Курсач Дудкин Никита1\Riptide\obj\Debug\Riptide.pdb
+C:\Курсач Дудкин Никита1\Riptide\bin\Debug\Riptide.exe.config
+C:\Курсач Дудкин Никита1\Riptide\bin\Debug\Riptide.exe
+C:\Курсач Дудкин Никита1\Riptide\bin\Debug\Riptide.pdb
